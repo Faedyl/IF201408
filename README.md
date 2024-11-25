@@ -10,7 +10,7 @@ This repository contains all the programs that I have written for the course IF2
 ### Clone the project
 
 ```bash
-git clone https://github.com/YourUsername/IF201408
+git clone https://github.com/Faedyl/IF201408
 ```
 
 ### Go to the project directory
